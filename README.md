@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LoosedSubset646
-- 👀 I’m interested in ... Python, C++, SQL, RPi(SOCs), Arduino(Microcontrollers), Industrial Automation (PLC/HMI/SCADA/DCS)
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... ??
-- 📫 How to reach me ... loosedsubset646@gmail.com
+Currently work in industrial automation, but trying to learn python, and any other language I find interesting/useful along the way.
+Love messing around with my rpi's , arduinos, and 3D printers.
 
 <!---
 LoosedSubset646/LoosedSubset646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
